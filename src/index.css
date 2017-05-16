@@ -2,4 +2,38 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-image: url('../shame.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#boss {
+	background-color: lightblue;
+	border: 1px solid black;
+	opacity: .8;
+	margin-top: 7%;
+	margin-left: 44%;
+}
+
+#shauna {
+	background-color: lightblue;
+	border: 1px solid black;
+	opacity: .8;
+}
+
+#input-dropdown-addon {
+	margin-left: 17%;
+	margin-top: 4%;
+}
+
+#this {
+	margin-left: 52%;
+	width: 10%;
+	background-color: lightgreen;
+	opacity: .7;
+	text-align: center;
+}
+
+#bs {
+	margin-left: 44%;
 }
